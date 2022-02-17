@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VIKRAM PUROHIT
 - 👀 I’m interested in Data Analsis Projects
 - 🌱 I’m currently learning Data Science,Inferential Statistics,Machine Learning,Data Visualization
-- 💞️ I’m looking to collaborate on DATA ANALYSIS PROJECTS
+- 💞️ I’m looking to collaborate on DATA SCIENCE PROJECTS
 - 📫 How to reach me vkrmpurohit93@gmail.com,
 
 <!---
